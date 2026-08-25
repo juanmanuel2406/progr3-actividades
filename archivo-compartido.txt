@@ -1,0 +1,2 @@
+Este archivo lo usamos para practicar conflictos de merge en clase.
+linea_compartida = "version original"
